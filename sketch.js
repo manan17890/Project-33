@@ -5,7 +5,7 @@ const Constraint = Matter.Constraint;
 
 var engine, world;
 var snowflakes = []
-var maxsnowflakes = 30
+var maxsnowflakes = 25
 
 function preload(){
   backgroundIMG = loadImage("snow1.jpg");
